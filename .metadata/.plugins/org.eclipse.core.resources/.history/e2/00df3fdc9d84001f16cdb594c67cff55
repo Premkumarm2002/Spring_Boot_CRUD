@@ -1,0 +1,5 @@
+package com.example.usermanagementapp.controller;
+
+public class UserController {
+
+}

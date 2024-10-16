@@ -1,0 +1,5 @@
+package com.example.User_Management_App.Entity;
+
+public class User {
+
+}
